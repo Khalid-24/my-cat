@@ -1,6 +1,6 @@
 # CSS Cat Design
 
-A simple and cute cat design created using HTML and CSS. This project is perfect for anyone looking to practice their front-end development skills or add a touch of feline charm to their website.
+A simple and cute cat design created using HTML and CSS. 
 
 ## Preview
 
